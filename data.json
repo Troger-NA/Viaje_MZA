@@ -7,6 +7,12 @@
             "entry_price": 0.047
         },
         {
+            "id": "chill-guy",
+            "name": "Chill guy",
+            "quantity": 160.0,
+            "entry_price": 0.305
+        },
+        {
             "id": "carbify",
             "name": "Cby",
             "quantity": 121.0,
@@ -20,8 +26,8 @@
         }
     ],
     "objectives": {
-        "Vuelos": 700.0,
         "Alojamiento": 340.0,
+        "Vuelos": 700.0,
         "Alojamiento + vuelos": 1040.0,
         "Delirio parcial": 1500.0,
         "Delirio total": 2000.0
