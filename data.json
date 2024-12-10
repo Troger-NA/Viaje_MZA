@@ -1,0 +1,30 @@
+{
+    "coins": [
+        {
+            "id": "sharpe-ai",
+            "name": "SAI",
+            "quantity": 2000.0,
+            "entry_price": 0.047
+        },
+        {
+            "id": "carbify",
+            "name": "Cby",
+            "quantity": 121.0,
+            "entry_price": 0.614
+        },
+        {
+            "id": "crown-by-third-time-games",
+            "name": "CROWN2",
+            "quantity": 218.0,
+            "entry_price": 0.45
+        }
+    ],
+    "objectives": {
+        "Vuelos": 700.0,
+        "Alojamiento": 340.0,
+        "Alojamiento + vuelos": 1040.0,
+        "Delirio parcial": 1500.0,
+        "Delirio total": 2000.0
+    },
+    "locked": true
+}
